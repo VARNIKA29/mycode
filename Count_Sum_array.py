@@ -1,3 +1,4 @@
+# Count and Sum of the array 
 def count_and_sum_duplicates(arr):
     element_count = {}
     for element in arr:
